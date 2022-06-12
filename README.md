@@ -42,7 +42,7 @@ The same can be said of female and unknown users (more being subscribers and use
 
 - The results show that males make up the largest portion of users; a large number of those who do use the service are more likely to be subscribers, rather than general users; the highest use times are shown to be around the start and end of the typical workday.
 - Two additional visualizations I would perform with the given dataset would be:
-  - to find the most used start and end locations of each ride. This information would be helpful to find the best place to put bikes and maybe finding a place where there aren't any where they might be needed.
+  - to find the most used start and end locations of each ride. This information would be helpful to find the best place to put bikes and maybe finding a place where there aren't any and where they might be needed.
   - to find what age of users are more likely to try the service.
 
 # Resources
